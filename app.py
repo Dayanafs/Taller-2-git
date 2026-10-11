@@ -8,7 +8,7 @@ import pandas as pd
 import datetime as dt
 import os
 
-
+# Modificación realizada por Mauricio para colaboración
 
 app = dash.Dash(
     __name__,
